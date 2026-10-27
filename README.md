@@ -26,10 +26,6 @@
 
 </div>
 
-<div align="center">
-<img width="460" height="215" alt="Afterimage" src="https://raw.githubusercontent.com/oeejelpdcdpz/afterimage-offline-installer/main/game.jpg" />
-</div>
-
 ---
 
 ## 📖 About Afterimage
